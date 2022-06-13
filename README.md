@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/Qfbk3qy/2000-600px-svg.png)]
+![MasterHead](https://i.ibb.co/Qfbk3qy/2000-600px-svg.png)
 <h1 align="center">Hi 👋, We are Team Deciders</h1>
 <h3 align="center">Together we're stronger.</h3>
 
